@@ -15,6 +15,7 @@ A fullstack developer that loves NFTs, AI, Web3, and everything in between.</p>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"><img class="emoji" alt="headphones" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/AI-NFT-Minting-App-V2">AI NFT Marketplace</a></strong>: This was just an experiment to see what AI would do to build an NFT Marketplace from scratch, including the images. Used: React, Javascript, HTML, CSS, Hardhat, Solidity, Node.js, and Stable Diffusion</li>
 <li><g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"><img class="emoji" alt="notes" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/ai_nft_generator">AI NFT Minting Dapp</a></strong>: An NFT Generator from dapp University.</li>
+<li><g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"><img class="emoji" alt="notes" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/AI-SQL-Generator">AI SQL Generator App</a></strong>: An AI-based SQL Generator.</li>
 </ul>
 </article>
 
