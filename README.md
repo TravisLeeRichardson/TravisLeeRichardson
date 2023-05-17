@@ -19,6 +19,6 @@ A fullstack developer that loves NFTs, AI, Web3, and everything in between.</p>
 </article>
 
   🔭 I’m currently working on a project called NFT Wars for the 2023 Spring Chainlink Hackahton.<br>
-  👯 I’m looking to collaborate on upcoming hackathons.
-  ✨ I'm updating this repo and projects daily!  Check back and see! :)
+  👯 I’m looking to collaborate on upcoming hackathons.<br>
+  ✨ I'm updating this repo and projects daily!  <br><br>Check back and see! :)
 
