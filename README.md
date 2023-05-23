@@ -27,6 +27,7 @@ A fullstack developer that loves NFTs, AI, Web3, and everything in between.</p>
 
   🔭 I’m currently working on a project called NFT Wars for the 2023 Spring Chainlink Hackathon(April 28 - June 9, 2023) .<br>
   🔭 I just finished a project fir ETH-Global Autonomous Worlds Hackathon on a Learn-To-Earn Game called Emojimon2(May 18 - 26, 2023). <br>
+   <strong><a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjp"> Click Here To See My Project Submission</a></strong><br>
   👯 I’m looking to collaborate on upcoming hackathons.<br>
   ✨ I'm updating this repo and projects daily!  <br><br>Check back and see! :)
 
