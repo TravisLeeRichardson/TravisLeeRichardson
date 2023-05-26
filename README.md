@@ -11,18 +11,27 @@ A fullstack developer that loves NFTs, AI, Web3, and everything in between.</p>
 <li><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png"><img class="emoji" alt="deciduous_tree" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/memory-game">Memory Game</a></strong>: A simple memory game in Javascript</li>
 <li><g-emoji class="g-emoji" alias="inbox_tray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e5.png"><img class="emoji" alt="inbox_tray" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e5.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/tinder-clone-1">Tinder App: </a></strong>A Tinder Clone using MERN stack</li>
 <li><g-emoji class="g-emoji" alias="studio_microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png"><img class="emoji" alt="studio_microphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/emojimon2">Autonomous Learn-To-Earn 2d Game & World</a></strong>: Using the Mud framework, added lootboxes which are the genesis for a learn to earn model in an autonomous 2-d world on the blockchain.</li>
-</ul>
+<li><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png"><img class="emoji" alt="crescent_moon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/todo-app">TODO APP</a></strong>: An simple "to do" app built with React, Node and PostgreSQL with encrypted authentication.</li>
+  </ul>
+
 <h3 dir="auto"><a id="user-content-web-projects-mostly-built-with-ai-tools" class="anchor" aria-hidden="true" href="#web-projects-mostly-built-with-ai-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Web Projects mostly built with AI tools</h3>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"><img class="emoji" alt="headphones" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/AI-NFT-Minting-App-V2">AI NFT Marketplace</a></strong>: This was just an experiment to see what AI would do to build an NFT Marketplace from scratch, including the images. Used: React, Javascript, HTML, CSS, Hardhat, Solidity, Node.js, and Stable Diffusion</li>
 <li><g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"><img class="emoji" alt="notes" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/ai_nft_generator">AI NFT Minting Dapp</a></strong>: An NFT Generator from dapp University.</li>
 <li><g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"><img class="emoji" alt="notes" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/AI-SQL-Generator">AI SQL Generator App</a></strong>: An AI-based SQL Generator.</li>
-</ul>
+
+  
+  </ul>
+  
   <h3 dir="auto"><a id="other-projects" class="anchor" aria-hidden="true" href="#other-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Other Projects</h3>
 <ul dir="auto">
+
+
 <li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"><img class="emoji" alt="headphones" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/tic-tac-toe">Tic-Tac-Toe</a></strong>: Super simple tic-tac-toe in JS.</li>
 <li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"><img class="emoji" alt="headphones" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png"></g-emoji> <strong><a href="https://github.com/TravisLeeRichardson/mario-kaboom-js">Mario!</a></strong>: Mario built with Kaboom.js.</li>
-</ul>
+
+  
+  </ul>
 </article>
 
   🔭 I’m currently working on a project called NFT Wars for the 2023 Spring Chainlink Hackathon(April 28 - June 9, 2023) .<br>
