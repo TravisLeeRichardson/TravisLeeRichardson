@@ -33,7 +33,7 @@ I am a fullstack developer, marketer, and developer relations engineer that love
   
   <h3 dir="auto"><a id="what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>What I'm Up To Now</h3>
 <ul dir="auto">
- <li>📓 I’m currently working on a project called NFT Wars inspired by the 2023 Spring Chainlink Hackathon(April 28 - June 9, 2023) .</li>
+ <li>📓 I’m currently working on a project called NFT Wars inspired by my contributions to the 2023 Spring Chainlink Hackathon(April 28 - June 9, 2023).</li>
  <li>📓 I am actively building as part of a bootcamp called <strong><a href="https://bcamp.dev/blockchain-bootcamp-overview">BCAMP (solidity/AI)</a> (June 12 - July 24, 2023).</li>
   <li>📗<strong><a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjpz">Project Submission:</a></strong>
   This was the project I submitted for ETH-Global Autonomous Worlds Hackathon. Used the MUD framework by Latice. (May 18 - 26, 2023).
