@@ -28,6 +28,7 @@ I am a fullstack developer, marketer, and developer relations engineer that love
 
 <li>:game_die:<strong><a href="https://github.com/TravisLeeRichardson/tic-tac-toe">Tic-Tac-Toe</a></strong>: Super simple tic-tac-toe in JS.</li>
 <li>:video_game:<strong><a href="https://github.com/TravisLeeRichardson/mario-kaboom-js">Mario!</a></strong>: Mario built with Kaboom.js.</li>
+<li>:video_game:<strong><a href="https://github.com/TravisLeeRichardson/doodle-jump">Doodle Jump</a></strong>: Basic Javascript game.</li>
   </ul>
   
   <h3 dir="auto"><a id="what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>What I'm Up To Now</h3>
