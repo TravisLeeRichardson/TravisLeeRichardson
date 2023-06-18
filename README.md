@@ -38,7 +38,7 @@ I am a fullstack developer, marketer, and developer relations engineer that love
 <ul dir="auto">
  <li>📓 I’m currently working on a project called NFT Wars inspired by my contributions to the 2023 Spring Chainlink Hackathon(April 28 - June 9, 2023).</li>
  <li>📓 I am actively building as part of a bootcamp called <strong><a href="https://bcamp.dev/blockchain-bootcamp-overview">BCAMP (solidity/AI)</a> (June 12 - July 24, 2023).</li>
-  <li>📗<strong><a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjpz">Project Submission:</a></strong>
+  <li>📗<a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjpz">Project Submission:</a>
   This was the project I submitted for ETH-Global Autonomous Worlds Hackathon. Used the MUD framework by Latice. (May 18 - 26, 2023).
   </li>
    
