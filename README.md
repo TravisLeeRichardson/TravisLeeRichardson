@@ -6,6 +6,8 @@
 I am a fullstack developer, marketer, and developer relations engineer that loves NFTs, AI, Web3, and everything in between.</p>
 <h3 dir="auto"><a id="user-content-main-projects" class="anchor" aria-hidden="true" href="#main-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Main Projects</h3>
 <ul dir="auto">
+<li>🚀<strong><a href="https://github.com/TravisLeeRichardson/NftStory">NFT Ticketing</a></strong>: An NFT Ticketing Prototype which won a 1st place hackathon award.</li>
+<li>🔥<strong><a href="https://github.com/TravisLeeRichardson/NftStory">Tenderly Simulations</a></strong>: A simple defi staking dapp that allows for simulated transactins prior to submitting to the blockchain.</li>
 <li>:monkey:<strong><a href="https://github.com/TravisLeeRichardson/NftStory">NFT Story</a></strong>: A dapp that tells the story of an NFT on OpenSea using AI.</li>
 <li>:computer:<strong><a href="https://github.com/TravisLeeRichardson/chatGptClone">Chat GPT Clone</a></strong>: A clone of ChatGPT using React, Express, and OpenAI</li>
 <li>:brain:<strong><a href="https://github.com/TravisLeeRichardson/memory-game">Memory Game</a></strong>: A memory game in Javascript</li>
@@ -36,9 +38,13 @@ I am a fullstack developer, marketer, and developer relations engineer that love
   
   <h3 dir="auto"><a id="what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>What I'm Up To Now</h3>
 <ul dir="auto">
- <li>📓 I am actively building as part of a bootcamp called <a href="https://bcamp.dev/blockchain-bootcamp-overview">BCAMP (solidity/AI)</a> (June 12 - July 24, 2023).</li>
+  <li>💯
+ I just got hired by Tenderly! Start date August 14th, 2023!</li> 
+   <li>📚 Participating in the Encode Club Solidity Bootcamp <a href="https://github.com/Spencer-Sch/Encode_Solidity_Bootcamp_Group_5/tree/master"></a> (June 24 - August 14, 2023).</li>
+ <li>🫶 Awarded the "diplomat" NFT and won MVP as voted by my peers during BCAMP. NFT here: <a href="https://opensea.io/assets/matic/0xe72610b6cc5844f3ba6fcbcd9c704549be4c4ea6/3">BCAMP<a href="https://bcamp.dev/blockchain-bootcamp-overview"> (hackathon)</a> (June 12 - July 24, 2023).</li>
+  <li>📓 Won 1st place for my NFT Ticketing Project <a href="https://github.com/TravisLeeRichardson/Event-Ticketing_June2023">BCAMP<a href="https://bcamp.dev/blockchain-bootcamp-overview"> (hackathon)</a> (June 12 - July 24, 2023).</li>
   <li>📗<a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjpz">Project Submission:</a>
-  This was the project I submitted for ETH-Global Autonomous Worlds Hackathon. Used the MUD framework by Latice. (May 18 - 26, 2023).
+  Submitted a project for ETH-Global Autonomous Worlds Hackathon. Used the MUD framework by Latice. (May 18 - 26, 2023).
   </li>
    
   <li>👬 I’m looking to collaborate on upcoming hackathons.</li>
