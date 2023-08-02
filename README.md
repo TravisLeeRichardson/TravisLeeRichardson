@@ -40,7 +40,7 @@ I am a full-stack developer, marketer, and developer relations engineer that lov
 <ul dir="auto">
   <li>💯
  I just got hired by Tenderly! Start date August 14th, 2023!</li> 
-   <li>📚 Participating in the Encode Club Solidity Bootcamp <a href="https://github.com/Spencer-Sch/Encode_Solidity_Bootcamp_Group_5/tree/master"></a> (June 24 - August 14, 2023).</li>
+   <li>📚 Participating in the Encode Club Solidity Bootcamp <a href="https://github.com/Spencer-Sch/Encode_Solidity_Bootcamp_Group_5/tree/master"></a> (July 24 - Sep 18, 2023).</li>
  <li>🫶 Awarded the "diplomat" NFT and won MVP as voted by my peers during BCAMP.<a href="https://opensea.io/assets/matic/0xe72610b6cc5844f3ba6fcbcd9c704549be4c4ea6/3">Awarded NFT<a href="https://bcamp.dev/blockchain-bootcamp-overview"> (hackathon)</a> (June 12 - July 24, 2023).</li>
   <li>🎫 Won 1st place for my NFT Ticketing Project <a href="https://github.com/TravisLeeRichardson/Event-Ticketing_June2023">BCAMP<a href="https://bcamp.dev/blockchain-bootcamp-overview"> (hackathon)</a> (June 12 - July 24, 2023).</li>
   <li>📗<a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjpz">Project Submission:</a>
