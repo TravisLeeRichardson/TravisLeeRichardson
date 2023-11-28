@@ -52,7 +52,7 @@ I am a full-stack developer, marketer, and developer relations engineer who love
   <li>📗<a href="https://ethglobal.com/showcase/emojimon-learn-to-earn-pdjpz">Project Submission:</a>
   ETH-Global Autonomous Worlds Hackathon Project Submittal. Used the MUD framework by Lattice. (May 18 - 26, 2023).
   </li>
-<li>💯  If you have any questions or if you want to connect with me, feel free to drop me an email at travis@tenderly.co</li>
+<li>💯  If you have any questions or if you want to connect with me, feel free to drop me an email at tlrichar@gmail.com</li>
 
   </ul>
   
