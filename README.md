@@ -1,7 +1,7 @@
 ### Hi, my name is Travis 👋
 
 Welcome to my GitHub profile! 🎉
-
+   
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a href="https://www.travis-richardson.com" rel="nofollow"><img src="https://camo.githubusercontent.com/5f8d07b1175259568bc0f347fb84b8f8b3254f8fc49a28dfc75ac526e13f3f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626c6f672d626c756576696f6c6574" alt="website" data-canonical-src="https://img.shields.io/badge/-blog-blueviolet" style="max-width: 100%;"></a>
 <a href="https://twitter.com/tleerichardson" rel="nofollow"><img src="https://camo.githubusercontent.com/b01565418a51dcf8feea9f1ce0dc411f74ce43de4a42dbc352d609acc2fe720c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d747769747465722d626c7565" alt="twitter" data-canonical-src="https://img.shields.io/badge/-twitter-blue" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/travislrichardson" rel="nofollow"><img src="https://camo.githubusercontent.com/72b229fd94865c003a0ff3b040e5cc2193a7a92928bfed4bc2c77244a90bf8cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d304537364138" alt="linkedin" data-canonical-src="https://img.shields.io/badge/-linkedin-0E76A8" style="max-width: 100%;"></a><br>
