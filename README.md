@@ -13,6 +13,7 @@ I am a developer relations engineer, full-stack developer, and technical analyst
 <li>🔥<strong><a href="https://github.com/TravisLeeRichardson/Tenderly-Simulations.git">Tenderly Simulations</a></strong>: A simple defi staking dapp that allows for simulated transactions prior to submitting to the blockchain.</li>
 <li>🪙<strong><a href="https://github.com/TravisLeeRichardson/token-transfer.git">ERC20 Token Transfer</a></strong>: Demonstrates how to create your own ERC20 token, and then use Tenderly as a testing platform for Approval and Transfer on a simulated testnet.</li>
 <li>💰<strong><a href="https://github.com/TravisLeeRichardson/mini-multisig-1.git">Multisig Wallet</a></strong>: Showcases how to use Tenderly, Synpress, Playwright, and Github Actions to do End-to-End testing in a CI/CD environment.</li>
+<li>🎫<strong><a href="https://docs.base.org/guides/deploy-with-tenderly">Building on Base Article</a></strong>: An article I wrote to help Base Developers Use Tenderly to build secure dapps using simulations.</li>
 <li>:monkey:<strong><a href="https://github.com/TravisLeeRichardson/NftStory">NFT Story</a></strong>: A dapp that tells the story of an NFT on OpenSea using AI.</li>
 <li>:computer:<strong><a href="https://github.com/TravisLeeRichardson/chatGptClone">Chat GPT Clone</a></strong>: A clone of ChatGPT using React, Express, and OpenAI</li>
 <li>:brain:<strong><a href="https://github.com/TravisLeeRichardson/memory-game">Memory Game</a></strong>: A memory game in Javascript</li>
