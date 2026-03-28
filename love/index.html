@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>For Jill Terrill</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      min-height: 100vh;
+      background: #0d0010;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Georgia', serif;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Starfield */
+    canvas#stars {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 2rem;
+      max-width: 680px;
+    }
+
+    .heart-wrap {
+      font-size: 6rem;
+      animation: heartbeat 1.2s ease-in-out infinite;
+      display: inline-block;
+      filter: drop-shadow(0 0 18px #ff4e8e);
+    }
+
+    @keyframes heartbeat {
+      0%, 100% { transform: scale(1); }
+      14%       { transform: scale(1.18); }
+      28%       { transform: scale(1); }
+      42%       { transform: scale(1.12); }
+      56%       { transform: scale(1); }
+    }
+
+    h1 {
+      margin-top: 1.2rem;
+      font-size: 2.8rem;
+      color: #fff;
+      text-shadow: 0 0 20px #ff4e8e, 0 0 40px #ff4e8e;
+      letter-spacing: 0.04em;
+    }
+
+    .subtitle {
+      margin-top: 0.5rem;
+      font-size: 1.15rem;
+      color: #ffb3d1;
+      letter-spacing: 0.08em;
+      font-style: italic;
+    }
+
+    .divider {
+      width: 60px;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, #ff4e8e, transparent);
+      margin: 2rem auto;
+    }
+
+    .poem {
+      color: #f9d5e8;
+      font-size: 1.1rem;
+      line-height: 2;
+      white-space: pre-line;
+      text-shadow: 0 1px 8px rgba(255,78,142,0.3);
+    }
+
+    .poem em {
+      color: #ff9ec8;
+      font-style: italic;
+    }
+
+    .divider2 {
+      width: 40px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #ffb3d1, transparent);
+      margin: 2rem auto;
+    }
+
+    .signature {
+      color: #ff9ec8;
+      font-size: 1.05rem;
+      letter-spacing: 0.1em;
+    }
+
+    /* Floating hearts */
+    .float-heart {
+      position: fixed;
+      bottom: -60px;
+      font-size: 1.6rem;
+      opacity: 0;
+      animation: floatUp linear infinite;
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    @keyframes floatUp {
+      0%   { transform: translateY(0) rotate(0deg); opacity: 0.9; }
+      80%  { opacity: 0.7; }
+      100% { transform: translateY(-110vh) rotate(25deg); opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+
+<canvas id="stars"></canvas>
+
+<div class="container">
+  <div class="heart-wrap">&#10084;&#65039;</div>
+
+  <h1>Jill Terrill</h1>
+  <p class="subtitle">Every day, every moment, always.</p>
+
+  <div class="divider"></div>
+
+  <p class="poem">In a world full of noise and endless days,
+you are the quiet that calms every storm.
+Your laugh is the song I never knew I needed,
+your presence the place I call home.
+
+<em>I love the way your eyes light up a room,
+the way you make ordinary moments feel rare.
+You are the reason I look forward to mornings,
+and the last thought I carry into each night.</em>
+
+Jill, you are extraordinary.
+And I am endlessly grateful
+that this life brought me to you.</p>
+
+  <div class="divider2"></div>
+  <p class="signature">With all my love &mdash; Travis</p>
+</div>
+
+<script>
+  // Starfield
+  const canvas = document.getElementById('stars');
+  const ctx = canvas.getContext('2d');
+  let W, H, stars = [];
+
+  function resize() {
+    W = canvas.width  = window.innerWidth;
+    H = canvas.height = window.innerHeight;
+  }
+  window.addEventListener('resize', resize);
+  resize();
+
+  for (let i = 0; i < 180; i++) {
+    stars.push({
+      x: Math.random() * 1,
+      y: Math.random() * 1,
+      r: Math.random() * 1.4 + 0.3,
+      speed: Math.random() * 0.0002 + 0.00005,
+      alpha: Math.random()
+    });
+  }
+
+  let t = 0;
+  function drawStars() {
+    ctx.clearRect(0, 0, W, H);
+    t += 0.012;
+    stars.forEach(s => {
+      const a = 0.4 + 0.6 * Math.abs(Math.sin(t * s.speed * 5000 + s.alpha * 100));
+      ctx.beginPath();
+      ctx.arc(s.x * W, s.y * H, s.r, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(255,220,240,${a})`;
+      ctx.fill();
+    });
+    requestAnimationFrame(drawStars);
+  }
+  drawStars();
+
+  // Floating hearts
+  const emojis = ['❤️','💕','💖','💗','💓','💞','🌹'];
+  function spawnHeart() {
+    const el = document.createElement('div');
+    el.className = 'float-heart';
+    el.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+    el.style.left = Math.random() * 100 + 'vw';
+    el.style.fontSize = (1.2 + Math.random() * 1.8) + 'rem';
+    const dur = 6 + Math.random() * 6;
+    el.style.animationDuration = dur + 's';
+    el.style.animationDelay = (Math.random() * 2) + 's';
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), (dur + 2) * 1000);
+  }
+  setInterval(spawnHeart, 800);
+  for (let i = 0; i < 6; i++) spawnHeart();
+</script>
+</body>
+</html>
